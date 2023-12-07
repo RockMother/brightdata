@@ -1,0 +1,14 @@
+{
+  "name": "brightdata",
+  "version": "1.0.0",
+  "description": "Test task for the Bright Data",
+  "scripts": {
+    "test": "mocha '**/*.test.js'"
+  },
+  "author": "Kirill Shumilov",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  }
+}
